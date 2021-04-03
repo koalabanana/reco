@@ -1,5 +1,11 @@
 import React from "react";
-import { Box, UnorderedList, ListItem, Button } from "@chakra-ui/react";
+import {
+  Container,
+  Box,
+  UnorderedList,
+  ListItem,
+  Button,
+} from "@chakra-ui/react";
 
 const Navbar = () => {
   return (
